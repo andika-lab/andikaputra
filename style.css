@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.w-33 {
+    width: 33%;
+}
+
+.w-67 {
+    width: 67%;
+}
+
+.max-w-4xl {
+    max-width: 1024px;
+}
